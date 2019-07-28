@@ -1,0 +1,6 @@
+package: github.com/academm/step-by-step
+import:
+- package: github.com/Sirupsen/logrus
+  version: ^1.4.2
+- package: github.com/takama/router
+  version: ^0.6.5
